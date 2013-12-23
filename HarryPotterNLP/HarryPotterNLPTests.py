@@ -1,5 +1,3 @@
-# Kevin Lee, Shijia Lu
-
 from HarryPotterNLP import *
 import unittest
 
